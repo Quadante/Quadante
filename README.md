@@ -10,8 +10,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ I like to improve myself
 
-### Spotify Playing 🎧
-[ ](https://open.spotify.com/track/0xN33lqvyxDF3xVhvetn94?si=oDnhzXwbTRe6fkXy8c7_KA)
 
 ### Connect with me:
 
