@@ -39,7 +39,7 @@
 
 ---
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadante&layout=compact&theme=dark&card_width=350)](https://github.com/Quadante)
 
 <details>
   <summary>:zap: Github Stats</summary>
